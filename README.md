@@ -4,7 +4,14 @@ Acredito que hoje em dia o conceito de UX e UI seja essencial para um projeto. J
 
 Qualquer contruibuição será bem vinda :3
 
-### Idéias para contribuir:
+
+## Idéias para contribuir:
 
 * Manual de boas práticas
 * Modelos de Design (landing page, website, software, apps)
+
+
+## Materiais
+
+* UX
+* UI
