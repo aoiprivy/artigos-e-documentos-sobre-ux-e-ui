@@ -9,6 +9,8 @@ Qualquer contruibuição será bem vinda :3
 
 * Manual de boas práticas
 * Modelos de Design (landing page, website, software, apps)
+* Vídeos (arquivo .md)
+* Cursos (arquivo .md)
 
 
 ## Materiais
