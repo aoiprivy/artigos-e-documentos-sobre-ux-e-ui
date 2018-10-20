@@ -9,8 +9,9 @@ Qualquer contruibuição será bem vinda :3
 
 * Manual de boas práticas
 * Modelos de Design (landing page, website, software, apps)
-* Vídeos (arquivo .md)
-* Cursos (arquivo .md)
+* Vídeos
+* Cursos
+* Sites
 
 
 ## Materiais
@@ -18,3 +19,13 @@ Qualquer contruibuição será bem vinda :3
 * [UX](https://github.com/aoiprivy/artigos-e-documentos-sobre-ux-e-ui/tree/master/UX)
 * [UI](https://github.com/aoiprivy/artigos-e-documentos-sobre-ux-e-ui/tree/master/UI)
 * [Artigos Bônus](https://github.com/aoiprivy/artigos-e-documentos-sobre-ux-e-ui/tree/master/Bonus)
+* Lista de sites para acompanhar
+
+## Lista de sites
+
+* [Catarinas - Design de Interação](http://catarinasdesign.com.br/)
+* [UX Collective](https://brasil.uxdesign.cc/)
+
+## Cursos
+
+* [Origamid](https://www.origamid.com/)
