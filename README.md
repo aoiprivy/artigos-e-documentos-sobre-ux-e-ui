@@ -19,7 +19,6 @@ Qualquer contruibuição será bem vinda :3
 * [UX](https://github.com/aoiprivy/artigos-e-documentos-sobre-ux-e-ui/tree/master/UX)
 * [UI](https://github.com/aoiprivy/artigos-e-documentos-sobre-ux-e-ui/tree/master/UI)
 * [Artigos Bônus](https://github.com/aoiprivy/artigos-e-documentos-sobre-ux-e-ui/tree/master/Bonus)
-* Lista de sites para acompanhar
 
 ## Lista de sites
 
